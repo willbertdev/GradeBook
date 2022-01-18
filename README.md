@@ -1,37 +1,17 @@
-<details>
-<summary>Table of Contents</summary>
- <ul>
-  <li>
-    
-   <ul>
-    <li>[Project Setup](#project-setup)</li> 
-    <li>[Installation](#installation)</li>
-   </ul>
-  </li>
-  <li> 
-   [About The Project](#about-the-project)
-   <ul>
-    <li>[Built With](#build-with)</li>
-    <li>[Features](#features)</li>
-   </ul>
-  </li>
-  <li>[Requirements](#requirements)</li>
- </ul>
-</details>
-
 <details open>
  <summary>Table of Contents</summary>
  <br>
  
  - Getting Started
   - [Project Setup](#project-setup)
-  - >[Installation](#installation)
+  - [Installation](#installation)
+ - [About The Project](#about-the-project)
+  - [Built With](#build-with)
+  - [Features](#features)
+ - [Requirements](#requirements)
 </details>
 
 
-
-* [Project Setup](#project-setup)
- * [Project Setup](#project-setup)
 
 ### <a name="project-setup"></a> Project setup
 ```
