@@ -19,26 +19,26 @@
  </ul>
 </details>
 
-### Project setup
+### <a name="project-setup"></a> Project setup
 ```
 npm install
 ```
 
-### Installation
+### <a name="installation"></a> Installation
 ```
 npm run serve
 ```
-### About the project
+### <a name="about-the-project"></a> About the project
 
 This is a simple app created in Vue.js to list all student grades and compute the overall class average. 
 
-### Built with
+### <a name="build-with"></a> Built with
 --------
 
 * [Vue.js](https://vuejs.org/)
 * [Vuetify](https://vuetifyjs.com/)
 
-### Requirements
+### <a name="requirements"></a> Requirements
 
 - [x] Tester can input the students’ name and grade. The updated list of grades can be shown after
 input
