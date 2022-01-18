@@ -7,7 +7,6 @@
 </template>
 
 <script>
-// import GradeTable from './components/GradeTable';
 import GradeBook from './components/GradeBook';
 
 export default {
