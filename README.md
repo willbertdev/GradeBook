@@ -1,12 +1,22 @@
 <details>
 <summary>Table of Contents</summary>
-  * Getting Started
-        * [Project Setup](#project-setup)
-        * [Installation](#installation)
-  * [About The Project](#about-the-project)
-        * [Built With](#build-with)
-        * Features(#features)
-  * [Requirements](#requirements)
+ <ul>
+  <li>
+    Getting Started
+   <ul>
+    <li>[Project Setup](#project-setup)</li>
+    <li>[Installation](#installation)</li>
+   </ul>
+  </li>
+  <li> 
+   [About The Project](#about-the-project)
+   <ul>
+    <li>[Built With](#build-with)</li>
+    <li>Features(#features)</li>
+   </ul>
+  </li>
+  <li>[Requirements](#requirements)</li>
+ </ul>
 </details>
 
 ### Project setup
