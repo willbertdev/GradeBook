@@ -1,11 +1,19 @@
-# javascript-exam
+<details>
+<summary>Table of Contents</summary>
+    + Getting Started
+        + [Project Setup](#project-setup)
+        + [Installation](#installation)
+  + [About The Project](#about-the-project)
+        + [Built With](#build-with)
+        + Features(#features)
+</details>
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Installation
 ```
 npm run serve
 ```
