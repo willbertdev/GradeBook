@@ -2,13 +2,13 @@
  <summary>Table of Contents</summary>
  <br>
  
- - Getting Started
-  - [Project Setup](#project-setup)
-  - [Installation](#installation)
- - [About The Project](#about-the-project)
-  - [Built With](#build-with)
-  - [Features](#features)
- - [Requirements](#requirements)
+ * Getting Started
+  * [Project Setup](#project-setup)
+  * [Installation](#installation)
+ * [About The Project](#about-the-project)
+  * [Built With](#build-with)
+  * [Features](#features)
+ * [Requirements](#requirements)
 </details>
 
 
